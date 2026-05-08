@@ -1,4 +1,4 @@
-# Job Application Setup
+# Portfolio Project for Junior Growth Marketing Specialist
 
 ## Tools Installed
 - **Cursor IDE** — Downloaded from https://cursor.com/ but could not be opened 
