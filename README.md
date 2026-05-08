@@ -30,7 +30,7 @@ GitHub, there were many things I didn't understand, so I asked Claude to walk me
 through the entire process step by step from creating the account to committing 
 this README and followed the instructions through to completion.
 
-**Solution:** I used GitHub's built-in browser editor (github.dev) as an 
-alternative. This allowed me to complete all the required steps — creating the 
-repository, writing this README, and committing the file — entirely through 
+I used GitHub's built-in browser editor (github.dev) as an 
+alternative. This allowed me to complete all the required steps from creating the 
+repository, writing this README, and committing the file entirely through 
 the browser without needing a local IDE.
