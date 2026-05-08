@@ -1,36 +1,70 @@
-# Portfolio Project for Junior Growth Marketing Specialist
+# Portfolio Project Setup
+
+*A documentation of my setup process, written by 
+someone who had never used GitHub before.*
+
+---
 
 ## Tools Installed
+
 - **Cursor IDE** — Downloaded from https://cursor.com/ but could not be opened 
   due to macOS version incompatibility on my machine.
 - **Claude Code** — This is an extension inside Cursor. Could not be installed 
   because Cursor was unable to run on my system.
-- **Codex** — This is also an extension inside Cursor. Could not be installed 
-  for the same reason.
+- **Codex** — Also an extension inside Cursor. Could not be installed for the 
+  same reason.
 - **GitHub** — Created an account and repository at https://github.com/
+- **Replit** — Used as a browser-based alternative to Cursor. Connected to this 
+  GitHub repository at https://replit.com/@aisyaracelly/Portfolio-Project
+
+---
 
 ## Steps Completed
+
 1. Downloaded and attempted to install Cursor IDE
 2. Created a GitHub account at github.com
-3. Created this public repository
-4. Created and edited this README.md file using GitHub's browser editor (github.dev)
-5. Committed and pushed this file to the repository
+3. Created this public repository (portfolio-project)
+4. Created and edited this README.md using GitHub's browser editor (github.dev)
+5. Committed and pushed this README to GitHub
+6. Signed up for Replit and imported this GitHub repository as an alternative 
+   development environment
+7. Updated this README
 
-## Issues Encountered & How I Solved Them
-### Cursor IDE, Claude Code & Codex — macOS Compatibility Issue
-**Issue:** After downloading Cursor, I was unable to open it because my Mac's 
-operating system is too old to support the application. As a result, I was also 
-unable to install the Claude Code and Codex extensions, which require Cursor to run.
+---
 
-**Solution:** I first researched whether it was possible to complete the task 
-without Cursor or any other download. I watched a GitHub beginner playlist to 
-try to figure it out, but it didn't fully address my situation. I then asked 
-Claude for help. Since this was my first time using 
-GitHub, there were many things I didn't understand, so I asked Claude to walk me 
-through the entire process step by step from creating the account to committing 
-this README and followed the instructions through to completion.
+## Issues I Ran Into & How I Fixed Them
 
-I used GitHub's built-in browser editor (github.dev) as an 
-alternative. This allowed me to complete all the required steps from creating the 
-repository, writing this README, and committing the file entirely through 
-the browser without needing a local IDE.
+### Cursor IDE, Claude Code & Codex — Mac Compatibility Issue
+
+**Issue:** After downloading Cursor, turns out my Mac is too old to run it. 
+Which also meant I couldn't install Claude Code and Codex since those live 
+inside Cursor.
+
+**What I did:** I first looked into whether I could still pull this off without 
+downloading anything. Watched a GitHub beginner playlist but it didn't really 
+cover my situation. So I turned to Claude for help and since 
+this was literally my first time using GitHub, I asked 
+it to walk me through everything step by step all 
+the way to committing this README.
+
+For the editor, I used GitHub's built-in browser editor (github.dev) instead of 
+Cursor.
+
+I also connected this repository to Replit (https://replit.com) as a 
+browser-based alternative to Cursor for future development. I can 
+write and run code directly from the browser without needing a local IDE and 
+it already has AI built in, similar to how Cursor works with Claude Code.
+
+---
+
+## What I Learned
+
+I came into this knowing nothing about GitHub, coding, or developer tools. 
+Honestly it was a lot to take in at first but I still wanted to do everything I can. 
+
+More than that, not having the "right" tools doesn't have to stop 
+me. There's almost always a workaround if I'm willing to look for one. 
+
+---
+
+*Built with GitHub + Replit | github.com/aisyaracelly*
