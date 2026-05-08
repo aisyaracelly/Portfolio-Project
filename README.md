@@ -3,6 +3,10 @@
 ## Tools Installed
 - **Cursor IDE** — Downloaded from https://cursor.com/ but could not be opened 
   due to macOS version incompatibility on my machine.
+- **Claude Code** — This is an extension inside Cursor. Could not be installed 
+  because Cursor was unable to run on my system.
+- **Codex** — This is also an extension inside Cursor. Could not be installed 
+  for the same reason.
 - **GitHub** — Created an account and repository at https://github.com/
 
 ## Steps Completed
@@ -13,9 +17,10 @@
 5. Committed and pushed this file to the repository
 
 ## Issues Encountered & How I Solved Them
-### Cursor IDE — macOS Compatibility Issue
+### Cursor IDE, Claude Code & Codex — macOS Compatibility Issue
 **Issue:** After downloading Cursor, I was unable to open it because my Mac's 
-operating system is too old to support the application.
+operating system is too old to support the application. As a result, I was also 
+unable to install the Claude Code and Codex extensions, which require Cursor to run.
 
 **Solution:** I first researched whether it was possible to complete the task 
 without Cursor or any other download. I watched a GitHub beginner playlist to 
