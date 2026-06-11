@@ -9,7 +9,7 @@
 | 3 | Richard van der Blom | LinkedIn Algorithm Researcher | [Link](https://linkedin.com/in/richardvanderblom) | Publishes annual algorithm reports the whole industry references |
 | 4 | Amanda Natividad | VP Marketing, SparkToro | [Link](https://linkedin.com/in/amandanat) | Sharp B2B content with strong strategic depth |
 | 5 | Katelyn Bourgoin | Founder, Customer Camp | [Link](https://www.linkedin.com/in/katebour/) | Turns customer research into content strategy |
-| 6 | Chris Orlob | Former Head of PMM, Gong | [Link](https://linkedin.com/in/chrisorlob) | Punchy insights on messaging and GTM storytelling |
+| 6 | Ross Simmonds | Founder, Foundation Marketing & Distribution.ai | [Link](https://www.linkedin.com/in/rosssimmonds/) | Generated $2M+ in revenue from LinkedIn in a single year. Expert in B2B content distribution strategy |
 | 7 | Tim Soulo | CMO, Ahrefs | [Link](https://linkedin.com/in/timsoulo) | Shows how LinkedIn works as a search-first B2B brand builder |
 | 8 | Devin Reed | Head of Content, Clari | [Link](https://linkedin.com/in/devinreed) | Bridges storytelling with data for B2B content |
 | 9 | Gaetano DiNardi | Founder, Marketing Advice | [Link](https://linkedin.com/in/officialg) | Hyper-niche B2B SaaS pipeline and content strategy |
