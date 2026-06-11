@@ -12,5 +12,5 @@
 | 6 | Ross Simmonds | Founder, Foundation Marketing & Distribution.ai | [Link](https://www.linkedin.com/in/rosssimmonds/) | Generated $2M+ in revenue from LinkedIn in a single year. Expert in B2B content distribution strategy |
 | 7 | Tim Soulo | CMO, Ahrefs | [Link](https://linkedin.com/in/timsoulo) | Shows how LinkedIn works as a search-first B2B brand builder |
 | 8 | Devin Reed | Head of Content, Clari | [Link](https://linkedin.com/in/devinreed) | Bridges storytelling with data for B2B content |
-| 9 | Gaetano DiNardi | Founder, Marketing Advice | [Link](https://linkedin.com/in/officialg) | Hyper-niche B2B SaaS pipeline and content strategy |
+| 9 | Jasmin Alić | LinkedIn Coach & Copywriter | [Link](https://www.linkedin.com/in/jasmin-alic/) | Known as the World's #1 LinkedIn Coach. Built 200K+ followers teaching LinkedIn content strategy, copywriting, and community building |
 | 10 | Ash Ali | Growth Advisor & Author | [Link](https://linkedin.com/in/ashali) | LinkedIn organic growth playbooks for B2B SaaS startups |
