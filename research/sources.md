@@ -13,4 +13,4 @@
 | 7 | Tim Soulo | CMO, Ahrefs | [Link](https://linkedin.com/in/timsoulo) | Shows how LinkedIn works as a search-first B2B brand builder |
 | 8 | Devin Reed | Head of Content, Clari | [Link](https://linkedin.com/in/devinreed) | Bridges storytelling with data for B2B content |
 | 9 | Jasmin Alić | LinkedIn Coach & Copywriter | [Link](https://www.linkedin.com/in/jasmin-alic/) | Known as the World's #1 LinkedIn Coach. Built 200K+ followers teaching LinkedIn content strategy, copywriting, and community building |
-| 10 | Ash Ali | Growth Advisor & Author | [Link](https://linkedin.com/in/ashali) | LinkedIn organic growth playbooks for B2B SaaS startups |
+| 10 | Ruben Hassid | Founder, EasyGen & LinkedIn Creator | [Link](https://www.linkedin.com/in/ruben-hassid/) | 500K+ LinkedIn followers. Founder of EasyGen, an AI LinkedIn content tool. His posting style and content approach serves as a live reference for AI-assisted LinkedIn content strategy |
