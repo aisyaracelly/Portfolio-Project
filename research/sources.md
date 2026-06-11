@@ -4,7 +4,7 @@
 
 | # | Name | Role | LinkedIn | Why I chose them |
 |---|------|------|----------|-----------------|
-| 1 | Justin Welsh | Solopreneur & LinkedIn Creator | [Link](https://linkedin.com/in/justinwelsh) | Built $12M+ business primarily through LinkedIn content |
+| 1 | Pierre Herubel | B2B Content Strategist & LinkedIn Creator | [Link](https://www.linkedin.com/in/pierre-herubel-540b3949/) | Grew B2B agency from $0 to $1M in 14 months purely through LinkedIn content. Has worked with 600+ B2B brands on content strategy |
 | 2 | Lara Acosta | LinkedIn Personal Branding Expert | [Link](https://www.linkedin.com/in/laraacostar/) | One of fastest growing LinkedIn creators, very tactical |
 | 3 | Richard van der Blom | LinkedIn Algorithm Researcher | [Link](https://linkedin.com/in/richardvanderblom) | Publishes annual algorithm reports the whole industry references |
 | 4 | Amanda Natividad | VP Marketing, SparkToro | [Link](https://linkedin.com/in/amandanat) | Sharp B2B content with strong strategic depth |
