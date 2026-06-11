@@ -4,10 +4,7 @@
 **Role:** Founder, Foundation Marketing & Distribution.ai
 **Collected:** June 2026
 
-**Note:** Ross Simmonds posts heavily in video and carousel format. 
-The captions below may not capture the full insight — visit the 
-original URLs for complete context including visuals and video content. 
-His content focuses on B2B content distribution and marketing broadly, 
+**Note:** Ross Simmonds posts on B2B content distribution and marketing broadly, 
 not LinkedIn strategy specifically, but his frameworks on content 
 distribution and B2B buyer behavior are still
 applicable to building a LinkedIn content strategy.
