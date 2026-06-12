@@ -16,7 +16,7 @@ someone who had never used GitHub before.*
 - **GitHub** — Created an account and repository at https://github.com/
 - **Replit** — Used as a browser-based alternative to Cursor. Connected to this 
   GitHub repository at https://replit.com/@aisyaracelly/Portfolio-Project
-  - **Supadata** — Used as a web-based API tool to collect YouTube transcripts 
+- **Supadata** — Used as a web-based API tool to collect YouTube transcripts 
   via API at https://supadata.ai/
 
 
@@ -266,7 +266,7 @@ which is ultimately what a content playbook needs to answer.
 ### Why additional YouTube creators were added
 
 Not all of the primary LinkedIn authors had relevant YouTube content. Rather than 
-leaving the YouTube transcripts folder sparse, additional creators were brought in 
+leaving the YouTube transcripts folder empty and not full, additional creators were brought in 
 who cover LinkedIn strategy, B2B marketing, and content-led growth from different 
 angles:
 
