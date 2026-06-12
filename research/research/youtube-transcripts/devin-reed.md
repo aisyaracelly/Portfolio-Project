@@ -8,13 +8,6 @@
 
 ---
 
-## Summary
-This conversation features Devin Reed interviewing Anish Law, the founder of Wishly Group, which is currently the largest B2B creator agency in North America. Anish details his journey of leaving a stable sales career at Pinterest to manage over 30 top B2B creators and execute roughly 80 monthly campaigns for major brands like LinkedIn, Notion, and Adobe.
-
-Key topics include his 3C model for vetting talent (Credibility, Charisma, and Character), his strategic approach to move away from one-off posts toward multi-channel influencer deals, and the significant milestone of signing David Meltzer, the real-life inspiration for Jerry Maguire, to his roster
-
----
-
 ## Full Transcript
 00:00:00 [Music]
 00:00:01 What's the next episode?
