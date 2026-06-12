@@ -8,14 +8,6 @@
 
 ---
 
-## Summary
-Pierre Herubel shares a 5-step playbook for building a team-led LinkedIn content 
-strategy in 2026. He argues that single-founder personal brands are no longer 
-enough — the companies winning on LinkedIn are running coordinated content from 
-3-5 team members simultaneously.
-
----
-
 ## Full Transcript
 
 00:00:00 If I was starting a brand new B2B
