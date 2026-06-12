@@ -8,11 +8,6 @@
 
 ---
 
-## Summary
-The new LinkedIn algorithm matches content to interests rather than follower count, meaning small accounts now have a structural advantage. Your profile acts as an AI prompt, vague profiles get no distribution. Posts get a second life weeks later based on relevance, not just immediate engagement. And there's no single winning format, only the one that fits how you naturally think and communicate.
-
----
-
 ## Full Transcript
 
 00:00:00 Everything the biggest LinkedIn experts
