@@ -94,8 +94,8 @@ in the repo, just without the automation layer that Claude Code would have provi
 
 ### Why I chose this topic
 LinkedIn organic content strategy is a topic I have direct experience with from 
-my B2B marketing background. I understand some of the audience, skeptical professionals 
-who don't respond to generic content, and I have real instincts about what works 
+my B2B marketing background. I understand some of the audience who are skeptical professionals 
+who don't respond to generic content, and I have some instincts about what works 
 and what doesn't. This made it the strongest choice for building a research-backed 
 playbook later.
 
@@ -105,8 +105,7 @@ I started by identifying 10 active **LinkedIn authors** as my primary sources.
 The reasoning: since my topic is LinkedIn organic content strategy, 
 LinkedIn authors are the most direct and credible reference. They're actively 
 practicing what they post about on the platform itself. A YouTube creator who 
-talks about LinkedIn but doesn't actively use it is a weaker source than someone 
-whose LinkedIn presence is the proof of concept.
+talks about LinkedIn can still be active on LinkedIn, but I personally think the primary source still should be LinkedIn because that's the proof of concept. 
 
 From there, I looked for YouTube videos from the same experts. But not all of 
 them had relevant YouTube content. Some are LinkedIn-first creators who rarely 
