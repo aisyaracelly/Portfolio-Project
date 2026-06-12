@@ -64,6 +64,7 @@ browser-based alternative to Cursor for future development. I can
 write and run code directly from the browser without needing a local IDE and 
 it already has AI built in, similar to how Cursor works with Claude Code.
 
+
 ### YouTube Transcript API — Cloud Server Restriction
 
 **Issue:** I built a working Python script in Replit using the YouTube Transcript 
@@ -76,6 +77,16 @@ run in a cloud environment.
 Playground, I was able to fetch transcripts via API without needing a local 
 development environment. This achieved the same outcome, API-based content 
 collection, through a legitimate alternative tool.
+
+### Note on Claude Code and Codex
+
+The original instruction intended for Claude Code or Codex to handle the entire API workflow automatically: 
+writing the code, running it, calling the API, and saving results directly into the repo files in one step. 
+Because Cursor wasn't compatible with my Mac, I couldn't use this automated 
+workflow. Instead, I replicated the same outcome manually: using Supadata's 
+web-based API to fetch YouTube transcripts and saving them into the correct repo 
+folders myself. The end result is the same: content collected via API, organized 
+in the repo, just without the automation layer that Claude Code would have provided.
 
 ---
 
