@@ -687,6 +687,12 @@ cadence.
 
 It was mentioned that vanity metrics aren't important anymore because it can help you with deeper analysis and help you know what's working or driving the business. I would say that depending on the business goal, it could work. If your still early in the business and want more people to get to know you, raise awareness, then vanity metrics are the right KPIs to track. But if your goal is to gain more leads, then vanity metrics couldn't help you that much. so again, depending on the business goal, vanity metrics can still be the right KPIs.
 
+### Rejected 4: Visual Contents
+
+Some experts also mentioned that the algorithm prefer a certain type of visual. Even though this can help boost our content, I would say the priority and focus is to create a relevant copy/content instead. Because at the end of the day, we want to connect with the people, not fighting the algorithm. if we're too focused on the algorithm and what it prefers, our contents will not land on the ICP. 
+
+Lara also said that video is preferred for Gen Z, I personally think we need to be careful when implementing it. Our ICP might not be a Gen Z and it doesn't mean that other type of visual aren't going to work for Gen Z or that only Gen Z watch videos. So again, the number one priority is the content itself, not what the algorithm says going to work.
+
 ---
 
 ## My Original Ideas
