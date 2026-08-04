@@ -38,6 +38,9 @@ someone who had never used GitHub before.*
 10. Used Supadata API to successfully collect YouTube transcripts via API
 11. Added additional YouTube creators to enrich the research
 12. Committed and pushed regularly throughout the process
+13. Research all of the contents and trends to find pattern, disagreement, and my own ideas to create the playbook
+14. Build the playbook here and put the sources inside
+15. Committed and push the process
 
 ---
 
